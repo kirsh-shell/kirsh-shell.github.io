@@ -42,6 +42,7 @@ This repository contains the public Kirsh project website, including its respons
 - [Kirnly editor](https://kirnly.github.io/)
 - [Pets registry](https://pets-registry.github.io/)
 - [Pets contribution guide](https://pets-registry.github.io/pets/)
+- [Stirk AI website](https://stirk-ai.github.io/)
 - [KirnOS](https://kirnos-kernel.github.io/)
 - [Creator — RK Riad Khan](https://rkriad585.github.io/)
 
