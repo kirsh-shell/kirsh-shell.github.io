@@ -31,7 +31,7 @@ This repository contains the public Kirsh project website, including its respons
 - System, light, and dark theme modes with saved preference.
 - Animated typewriter messaging in the hero section.
 - Search-friendly metadata, Open Graph previews, Twitter cards, and JSON-LD.
-- Links to Kirn, Kirnly, Pets, KirnOS, Kirn documentation, and the creator.
+- Links to Kirn, Kirnly, Pats, KirnOS, Kirn documentation, and the creator.
 - Accessible navigation landmarks, labels, reduced visual complexity, and a dedicated 404 page.
 
 ## Related projects
@@ -40,8 +40,8 @@ This repository contains the public Kirsh project website, including its respons
 - [Kirn programming language](https://kirn-lang.github.io/)
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
 - [Kirnly editor](https://kirnly.github.io/)
-- [Pets registry](https://pets-registry.github.io/)
-- [Pets contribution guide](https://pets-registry.github.io/pets/)
+- [Pats registry](https://pats-registry.github.io/)
+- [Pats contribution guide](https://pats-registry.github.io/pats/)
 - [Stirk AI website](https://stirk-ai.github.io/)
 - [KirnOS](https://kirnos-kernel.github.io/)
 - [Creator — RK Riad Khan](https://rkriad585.github.io/)
